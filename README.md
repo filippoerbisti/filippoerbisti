@@ -1,7 +1,5 @@
 ### Hi there 🌱
 
-<iframe src="https://github.com/sponsors/filippoerbisti/button" title="Sponsor filippoerbisti" height="35" width="116" style="border: 0;"></iframe>
-
 <!--
 **filippoerbisti/filippoerbisti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
