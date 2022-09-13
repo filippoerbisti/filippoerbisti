@@ -1,21 +1,15 @@
-### Hi there 🌱
+<h1 align="center">Hi 👋, I'm Filippo</h1>
+<h3 align="center">A passionate frontend developer from Italy</h3>
 
-<!--
-**filippoerbisti/filippoerbisti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=filippoerbisti&label=Profile%20views&color=0e75b6&style=flat" alt="filippoerbisti" /> </p>
 
-Here are some ideas to get you started:
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filippoerbisti" alt="filippoerbisti" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filippoerbisti&layout=compact&langs_count=8)](https://github.com/filippoerbisti)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filippoerbisti&show_icons=true&locale=en&layout=compact" alt="filippoerbisti" /></p>
 
-![Filippo Erbisti's GitHub stats](https://github-readme-stats.vercel.app/api?username=filippoerbisti&show_icons=true&theme=synthwave)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filippoerbisti&show_icons=true&locale=en" alt="filippoerbisti" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filippoerbisti&" alt="filippoerbisti" /></p>
